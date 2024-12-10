@@ -13,7 +13,7 @@ extensionFomartTransferData = [".json",".csv",".xml",".yaml"]
 # Yaml se utiliza para poetry el gestor de paquetes y dependencias de python 2323fdfksfksfkl
 
 
-def EliminarTemporales():
+def Order():
     try:
         for i in listadoDir:
             if os.path.splitext(i)[1] in extensionImg:
@@ -48,4 +48,4 @@ def EliminarTemporales():
 
 
 
-EliminarTemporales()
+Order()
