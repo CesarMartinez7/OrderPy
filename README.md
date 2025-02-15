@@ -1,9 +1,6 @@
 # OrderPy 📂
 
-
-Este script de Python organiza automáticamente los archivos en un directorio según su tipo, moviéndolos a carpetas específicas. Es ideal para mantener tus archivos organizados por extensiones
-
-Puedes modificar las extensiones de archivo y los directorios de destino según tus necesidades.
+Este script de Python se encarga de automatizar el ordenamiento de archivos los archivos segun su extension en un directorio , moviéndolos a carpetas específicas, que el usuario claramente puede crear sus propios directorios y moverlos donde quiera. Es ideal para mantener tus archivos organizados por extensiones con un simple click.
 
 
 # Uso
