@@ -8,9 +8,10 @@ Puedes modificar las extensiones de archivo y los directorios de destino según 
 
 # Uso
 
+
 **Copiar y Pegar**: Copia el archivo main.py al directorio que deseas organizar.
 
-**Ejecutar el Script**: Abre una terminal en la ubicación del directorio y ejecuta el script con Python presionando doble click.
+**Ejecutar el Script**: Abre una terminal en la ubicación del directorio o ejecuta el script con Python presionando doble click con la extension pyw para los usuarios de windows.
 
 # Dependencias o Modulos ⚠️
 
